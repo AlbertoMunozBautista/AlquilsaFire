@@ -134,7 +134,7 @@ class ListaCochesFragment(
                             autonomia, combustible, transmision, asientos, tipo,
                             precio, disponible)
 
-                        lista.add(c)
+                        listaCoches.add(c)
                     }
                 }
 
@@ -210,7 +210,7 @@ class ListaCochesFragment(
                                 autonomia, combustible, transmision, asientos, tipo,
                                 precio, disponible)
 
-                            lista.add(c)
+                            listaCoches.add(c)
                         }
 
                     }
