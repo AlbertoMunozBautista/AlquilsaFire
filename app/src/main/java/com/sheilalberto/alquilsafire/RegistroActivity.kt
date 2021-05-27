@@ -323,7 +323,7 @@ class RegistroActivity : AppCompatActivity() {
 
                     if(fotoUri == null){
 
-                        var fotoVieja = Uri.parse("android.resource://com.sheilalberto.alquilsafirestore/" + R.drawable.user)
+                        var fotoVieja = Uri.parse("android.resource://com.sheilalberto.alquilsafire/" + R.drawable.user)
                         ref.putFile(fotoVieja!!).addOnSuccessListener {
                             ref.downloadUrl.addOnSuccessListener {
 

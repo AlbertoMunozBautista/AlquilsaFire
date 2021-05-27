@@ -92,7 +92,7 @@ class ConverFragment(val u: Usuario) : Fragment() {
      */
     private fun enviarMensaje(idEmisor: String, idReceptor: String, mensaje: String){
         //Instanciamos la base de datos
-        db = FirebaseDatabase.getInstance("https://alquilsafirestore-default-rtdb.europe-west1.firebasedatabase.app/")
+        db = FirebaseDatabase.getInstance("https://alquilsafire-default-rtdb.europe-west1.firebasedatabase.app/")
         databaseReference = db.reference.child("chat")//Tabla chat
 
         var hasMap : HashMap<String, String> = HashMap()
