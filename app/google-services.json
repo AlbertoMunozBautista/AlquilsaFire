@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159154716070",
+    "project_id": "alquilsafire",
+    "storage_bucket": "alquilsafire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159154716070:android:d800289171a3da263d2367",
+        "android_client_info": {
+          "package_name": "com.sheilalberto.alquilsafire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159154716070-mno7o18rfmr8uee2uisaf9toqrq9adqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB93DSujxkPW1rbC0VwYsZhbwKYYXT9LCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159154716070-mno7o18rfmr8uee2uisaf9toqrq9adqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
